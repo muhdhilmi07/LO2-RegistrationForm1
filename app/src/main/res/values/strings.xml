@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo My Login App</string>
+    <string name="btn_login">Login</string>
+    <string name="app_cancel">Cancel</string>
+    <string name="tv_pass">Password</string>
+    <string name="tv_user">Name</string>
+
+</resources>

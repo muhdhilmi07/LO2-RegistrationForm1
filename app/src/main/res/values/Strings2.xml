@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name1">Registration Form</string>
+    <string name="btn_login1">Login</string>
+    <string name="app_cancel1">Cancel</string>
+    <string name="tv_pass1">Password</string>
+    <string name="tv_fn">First Name</string>
+    <string name="tv_ln">Last Name</string>
+</resources>
